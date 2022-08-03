@@ -1,8 +1,8 @@
 # A massive proteogenomic screen identifies thousands of novel human protein coding sequences
 
-Data used in this project was saved in Zenodo (https://zenodo.org/record/6302818).
+## Data used in this project was saved in Zenodo (https://zenodo.org/record/6302818).
 
-files include:
+Files include:
 * [ALL.combined.gtf.gz](https://zenodo.org/record/6302818/files/ALL.combined.gtf.gz?download=1) GTF file modeled from GTEx RNA-seq data. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
 * [ALL.info.gz](https://zenodo.org/record/6302818/files/ALL.info.gz?download=1) Transcript annotations. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
 * [GTEx_StringTie_proteins_dedup.1MSrelaxedPep.fa.gz](https://zenodo.org/record/6302818/files/GTEx_StringTie_proteins_dedup.1MSrelaxedPep.fa.gz?download=1) Proteins translated from StringTie genes modeled from the GTEx data, with at least one peptide evidence from mass spectrometry data.
@@ -35,6 +35,11 @@ files include:
 
 Other files and methods could be provided upon request.
 
+## [Python_scripts](https://github.com/ATPs/human_novo_protein_2021/tree/main/Python_scripts)
+Python scripts used to process the data. Visit the folder for details.
+
+## [blast](https://github.com/ATPs/human_novo_protein_2021/blob/main/blast/blast_search.md)
+Sample scripts of how the homologous search was performed.
 
  
  
