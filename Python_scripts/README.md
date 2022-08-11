@@ -17,6 +17,8 @@ sample code in
 sample code in
 [combine_comet_pin_for_each_project.py](https://github.com/ATPs/human_novo_protein_2021/blob/main/Python_scripts/combine_comet_pin_for_each_project.py)
 
+After running comet, Percolator was run based on each PRIDE project. We need to combine the output files of comet (.pin files) from the same project.
+
 ## other code
 other Python scripts were highly relied on the data and the HPC system that were used and can be provided upon request.
 
