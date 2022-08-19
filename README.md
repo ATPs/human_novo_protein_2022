@@ -41,5 +41,6 @@ Python scripts used to process the data. Visit the folder for details.
 ## [blast](https://github.com/ATPs/human_novo_protein_2021/blob/main/blast/blast_search.md)
 Sample scripts of how the homologous search was performed.
 
- 
+# Note
+**`I` were changed to `L` in the stored Peptide sequences**.
  
