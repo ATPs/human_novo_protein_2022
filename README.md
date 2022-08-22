@@ -4,7 +4,7 @@
 
 Files include:
 * [ALL.combined.gtf.gz](#) GTF file modeled from GTEx RNA-seq data. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
-* [ALL.info.gz]() Transcript annotations. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
+* [ALL.info.gz](#) Transcript annotations. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
 * [GTEx_StringTie_proteins_dedup.1MSrelaxedPep.fa.gz](#) Proteins translated from StringTie genes modeled from the GTEx data, with at least one peptide evidence from mass spectrometry data.
 * [GTEx_StringTie_proteins_dedup.fa.gz](#) Proteins translated from StringTie genes modeled from the GTEx data. Proteins were deduplicated as described in the manuscript methods.
 * [GTEx_StringTie_proteins_dedup.protein_in_genome.gff3](#) GFF3 file with the location of proteins in file [GTEx_StringTie_proteins_dedup.fa.gz](#).
