@@ -19,6 +19,12 @@ sample code in
 
 After running comet, Percolator was run based on each PRIDE project. We need to combine the output files of comet (.pin files) from the same project.
 
+## circRNA
+### 6-frame translation of circRNA
+circRNA bed file and sequence of Human were downloaded from circAtlas 2.0 database: http://159.226.67.237:8080/new/links.php
+sample code in [circRNA.six_frame_translation.py](https://github.com/ATPs/human_novo_protein_2021/blob/main/Python_scripts/circRNA.six_frame_translation.py)
+
+
 ## other code
 other Python scripts were highly relied on the data and the HPC system that were used and can be provided upon request.
 
