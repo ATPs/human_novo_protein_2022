@@ -49,7 +49,7 @@ Other files and methods could be provided upon request.
 ## [Python_scripts](https://github.com/ATPs/human_novo_protein_2021/tree/main/Python_scripts)
 Python scripts used to process the data. Visit the folder for details.
 
-## [blast](https://github.com/ATPs/human_novo_protein_2021/blob/main/blast/blast_search.md)
+## [blast](https://github.com/ATPs/human_novo_protein_2021/blob/main/blast)
 Sample scripts of how the homologous search was performed.
 
 # Note
