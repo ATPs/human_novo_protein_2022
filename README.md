@@ -27,7 +27,7 @@ Files include:
     * **peptides|q-value|min**: minimum q-value for peptide sequences calculated by Percolator.
     * **GENCODE|group**: relative location of peptides to GENCODE gene models. Values could be 'All_intron', 'All_intergene', 'All_UTR', 'All_exon_noncoding', 'All_transcript_coding', 'All_CDS', 'All_exon_coding', 'other', 'All_transcript_noncoding', 'All_transcript'.
     * **spectrums**: Spectrums matches with the peptides. The IDs look like "26N1_31599,1G48_65306", where "26N1" is the MS run ID in table S3 of the manuscript and "31599" 
-    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**, **HUPO|relaxed**, **HUPO|stringent**, **HUPO|strictest**, **HUPO|relaxed|PepQuery**, **HUPO|stringent|PepQuery**, **HUPO|strictest|PepQuery**: value could be 0 or 1. Different filtering standards.
+    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**, **HUPO|relaxed**, **HUPO|stringent**, **HUPO|strictest**, **HUPO|relaxed|PepQuery**, **HUPO|stringent|PepQuery**, **HUPO|strictest|PepQuery**: value could be 0 or 1. Different filtering standards. `HUPO` stands for the "Human Proteome Organization", which designs the HPP (Human Proteome Project) guidelines. `HUPO` means the `HPP` filtering standard.
 * Table_S5_proteins.info.tsv.gz
   * Novel proteins in table S5 of the manuscript with additional annotations. Columns are:
     * **protein_id**: novel protein ID.
