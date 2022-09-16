@@ -47,7 +47,7 @@ Files include:
 Other files and methods could be provided upon request.
 
 ## [Python_scripts](Python_scripts)
-Python scripts used to process the data. Visit the folder for details.
+Python scripts used to process the data. Visit the folder for details. We used [Anaconda Python version 3.8](https://www.anaconda.com/products/distribution) under the Linux System. The scripts should work with Python versions >= 3.4 with required packages installed (Biopython, pandas, and etc.) and work with Linux, Windows or MacOS since Python and the required pacakges can be installed in these operating systems.
 
 ## [blast](blast)
 Sample scripts of how the homologous search was performed.
