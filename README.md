@@ -46,10 +46,10 @@ Files include:
   * protein sequences from circRNA 6-frame translation. cicrRNA sequences were downloaded from CircAtlas 2.0 database.
 Other files and methods could be provided upon request.
 
-## [Python_scripts](Python_scripts/README.md)
+## [Python_scripts](Python_scripts)
 Python scripts used to process the data. Visit the folder for details.
 
-## [blast](blast/README.md)
+## [blast](blast)
 Sample scripts of how the homologous search was performed.
 
 ## [MS](MS/)
