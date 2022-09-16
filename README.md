@@ -46,11 +46,14 @@ Files include:
   * protein sequences from circRNA 6-frame translation. cicrRNA sequences were downloaded from CircAtlas 2.0 database.
 Other files and methods could be provided upon request.
 
-## [Python_scripts](https://github.com/ATPs/human_novo_protein_2021/tree/main/Python_scripts)
+## [Python_scripts](Python_scripts/README.md)
 Python scripts used to process the data. Visit the folder for details.
 
-## [blast](https://github.com/ATPs/human_novo_protein_2021/blob/main/blast)
+## [blast](blast/README.md)
 Sample scripts of how the homologous search was performed.
+
+## [MS](MS/README.md)
+MS data filtering process.
 
 # Note
 **`I` were changed to `L` in the stored Peptide sequences**.
