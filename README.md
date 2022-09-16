@@ -52,7 +52,7 @@ Python scripts used to process the data. Visit the folder for details.
 ## [blast](blast/README.md)
 Sample scripts of how the homologous search was performed.
 
-## [MS](MS/README.md)
+## [MS](MS/)
 MS data filtering process.
 
 # Note
