@@ -8,9 +8,9 @@ Files include:
 * ALL.info.gz 
   * Transcript annotations. Provided by Dr. Mihaela Pertea and Dr. Steven L. Salzberg and generated in the [CHESS paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1590-2).
 * GTEx_StringTie_proteins_dedup.1MSrelaxedPep.fa.gz
-  * Proteins translated from StringTie genes modeled from the GTEx data, with at least one peptide evidence from mass spectrometry data.
+  * Proteins translated from genes modeled from the GTEx data with StringTie, with at least one peptide evidence from mass spectrometry data.
 * GTEx_StringTie_proteins_dedup.fa.gz
-  * Proteins translated from StringTie genes modeled from the GTEx data. Proteins were deduplicated as described in the manuscript methods.
+  * Proteins translated from genes modeled from the GTEx data with StringTie. Proteins were deduplicated as described in the manuscript methods.
 * GTEx_StringTie_proteins_dedup.protein_in_genome.gff3
   *  GFF3 file with the location of proteins in file **GTEx_StringTie_proteins_dedup.fa.gz**.
 * PepQuery.MGF.tar.gz
@@ -18,7 +18,7 @@ Files include:
 * Table_S4_peptides.info.tsv.gz
   * Novel peptides in table S4 of the manuscript with additional annotations. Columns are:
     * **peptide**: peptide sequence detected in peptide-spectrum matches (PSMs).
-    * **pep_group**: peptide group. "N" and "W". "N" for those translated from GTEx StringTie transcripts directly. "W" for proteins altered with gnomAD common alleles.
+    * **pep_group**: peptide group. "N" and "W". "N" for those translated from GTEx transcripts directly. "W" for proteins altered with gnomAD common alleles.
     * **peptide_before_gnomAD**: peptide sequence before adding 
     * **genome_location_chr**: genomic location of peptide in genome. e.g., "chr16|+|50153490|50153549" means chromosome 16, + strand, 50153490 to 50153549. 
     * **protein_id_best**: the representative protein ID that contribute to the peptide sequence.
@@ -48,6 +48,9 @@ Other files and methods could be provided upon request.
 
 ## [Python_scripts](Python_scripts)
 Python scripts used to process the data. Visit the folder for details. We used [Anaconda Python version 3.8](https://www.anaconda.com/products/distribution) under the Linux System. The scripts should work with Python versions >= 3.4 with required packages installed (Biopython, pandas, and etc.) and work with Linux, Windows or MacOS since Python and the required pacakges can be installed in these operating systems.
+
+## [other_scripts](other_scripts)
+Linux bash scripts used to process the data. Visit the folder for details.
 
 ## [blast](blast)
 Sample scripts of how the homologous search was performed.
