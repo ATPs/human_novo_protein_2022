@@ -1,9 +1,11 @@
-# Linux bash scripts used in this study
+# Other scripts used in this study
 
 ## Generation of the GTEx gene model
-We used TransDecoder (version 5.5.0) (https://github.com/TransDecoder/TransDecoder) was used to find the coding sequences from the GTEx model.
+We used [TransDecoder (version 5.5.0)](https://github.com/TransDecoder/TransDecoder) was used to find the coding sequences from the GTEx model.
 
 The GTEx model can be found in the [Zenodo](https://zenodo.org/record/7014020).
+
+To eliminate potential transcriptional noise, transcripts with the max Transcripts Per Million (TPM) values ≥ 2 among all GTEx RNA-seq samples and detected in ≥ 3 samples were kept.
 
 Transcript sequences were acquired with the “gtf_genome_to_cdna_fasta.pl” tool in TransDecoder. 
 ```bash
@@ -30,12 +32,31 @@ Proteins aligned to the genome by TransDecoder were combined for further analysi
 cd-hit -i $FILE_PROTEINS_COMBINED -o $OUTPUT_FILE_DEDUP_PROTEINS -c 1.0 -n 5 -M 250000 -T 28 -U 0 -s 0 -uL 0 -uS 0
 ```
 
-## Mass spectrometry (MS) raw data pre-processing
-Sample script to convert MS raw data to mzML format.
-```bash
-msconvert $FILE_RAW -o $FOLDER_OUT --mzML --filter "msLevel 2-" --inten32 –zlib
-```
-Sample script to convert mzML file to MGF format.
-```bash
-msconvert $FILE_mzML -o $FOLDER_OUT --mgf --filter "peakPicking true 1-" --mz64 --inten32 --filter "zeroSamples removeExtra" -g
-```
+## Translation of GTEx model directly
+The GTEx model was also translated directly with TransDecoder.
+The minimum protein length was set to 30.
+
+## blast search
+Sample scripts of how the homologous search was performed.
+
+### nr
+
+* The NCBI nr sequences were split to 500 parts.
+* DIAMOND (v2.0.11)
+  ```bash
+  diamond makedb --in $FILE_PROTEIN_SEQ --db $FILE_PROTEIN_DB
+  diamond blastp --db $FILE_PROTEIN_DB --query $FILE_PROTEIN_QEURY --ultra-sensitive --outfmt 6 \
+    --out $FILE_OUTPUT --max-target-seqs 1 --evalue 0.00001 --block-size 20 --tmpdir $FOLDER_TEMP \
+    --no-unlink --threads 12 --masking 0 --comp-based-stats 3
+  ```
+ * Each query protein, the best match protein in nr was selected based on the highest bitscore and combined.
+ * BLASTP against best match proteins.
+ * Calculate e-value against all nr sequences.
+   * As the selected proteins from nr was a subset of the large databases, the e-values were smaller due to the smaller database size. The e-values against the entire nr were calculated by multiplying a ratio, which equaled the total length of proteins in nr dividing the total length of the selected nr proteins.
+
+
+### UniProt
+Similar to nr.
+
+### SwissProt
+Search with BLASTP directly.
