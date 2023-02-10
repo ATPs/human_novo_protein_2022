@@ -9,6 +9,9 @@ modified from https://github.com/yafeng/trypsin/blob/master/trypsin.py
 sample code in [Trypsin.py](https://github.com/ATPs/human_novo_protein_2021/blob/main/Python_scripts/Trypsin.py)
 
 ## generation of decoy database
+In-house Python scripts were used to remove peptides in the decoy database that are the same to peptides in the target database. 
+
+A peptide in the decoy database was also removed if any of its possible variants considering amino acid N=D, Q=E was found in the target database, because N[Deamidated]=D, Q[Deamidated]=E in MS search. For example, peptide AANQ was found in the target database, its variants (AADQ, AANE, and AADE) would be removed from the decoy database.
 
 sample code in
 [generation_of_decoy_database.py](https://github.com/ATPs/human_novo_protein_2021/blob/main/Python_scripts/generation_of_decoy_database.py)

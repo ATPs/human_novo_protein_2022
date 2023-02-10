@@ -57,11 +57,9 @@ Python scripts used to process the data. Visit the folder for details. We used [
 ## [other_scripts](other_scripts)
 Linux bash scripts used to process the data. Visit the folder for details.
 
-## [blast](blast)
-Sample scripts of how the homologous search was performed.
 
 ## [MS](MS/)
-MS data filtering process.
+MS data filtering and processing.
 
 # Note
 **`I` were changed to `L` in the stored Peptide sequences**.
