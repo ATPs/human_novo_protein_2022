@@ -1,0 +1,97 @@
+Row Labels	Bacteria	Homo_sapiens	NA	nonHuman_Primates	nonMammal_Metazoa	nonPrimates_mammals	otherSum
+best	73	2330	1597	1909	103	787	41
+cancer	2	23	10	20	1	3	0
+cancer,cell line	3	185	122	166	7	57	2
+cell line	1	130	54	95	4	40	2
+Organism part	6	185	58	101	2	26	4
+Organism part,cancer	2	191	62	101	4	32	4
+Organism part,cancer,cell line	55	1303	1169	1216	77	527	27
+Organism part,cell line	4	313	122	210	8	102	2
+best|PepQuery	62	2247	1235	1787	96	745	39
+cancer	2	22	8	19	1	3	0
+cancer,cell line	3	177	89	156	7	54	2
+cell line	1	122	44	89	4	37	1
+Organism part	4	180	34	89	1	26	4
+Organism part,cancer	2	188	48	93	4	29	4
+Organism part,cancer,cell line	46	1255	924	1147	73	503	26
+Organism part,cell line	4	303	88	194	6	93	2
+HUPO|best	0	310	8	405	29	152	13
+cancer	0	0	0	0	0	0	0
+cancer,cell line	0	5	1	10	0	4	0
+cell line	0	3	1	4	0	4	0
+Organism part	0	3	1	11	0	1	1
+Organism part,cancer	0	4	0	12	0	1	1
+Organism part,cancer,cell line	0	283	5	350	28	137	11
+Organism part,cell line	0	12	0	18	1	5	0
+HUPO|best|PepQuery	0	299	8	378	27	141	12
+cancer	0	0	0	0	0	0	0
+cancer,cell line	0	5	1	7	0	4	0
+cell line	0	3	1	3	0	4	0
+Organism part	0	3	1	10	0	1	1
+Organism part,cancer	0	4	0	12	0	1	1
+Organism part,cancer,cell line	0	272	5	330	26	125	10
+Organism part,cell line	0	12	0	16	1	6	0
+HUPO|loose	874	4081	19620	5137	291	1977	173
+cancer	30	89	678	137	2	51	2
+cancer,cell line	145	579	3349	714	45	272	22
+cell line	91	354	1985	468	20	174	21
+Organism part	65	281	1487	331	17	140	11
+Organism part,cancer	104	494	2889	613	32	217	33
+Organism part,cancer,cell line	199	1412	4153	1745	105	710	49
+Organism part,cell line	240	872	5079	1129	70	413	35
+HUPO|loose|PepQuery	38	1042	1175	1179	70	488	26
+cancer	0	8	26	16	0	7	1
+cancer,cell line	5	81	181	107	6	34	3
+cell line	3	68	86	62	1	27	1
+Organism part	3	54	64	52	2	17	3
+Organism part,cancer	2	58	132	72	4	19	3
+Organism part,cancer,cell line	19	642	428	733	49	307	12
+Organism part,cell line	6	131	258	137	8	77	3
+HUPO|strict	1	688	77	822	53	319	19
+cancer	0	6	2	10	0	1	1
+cancer,cell line	1	35	7	43	6	13	0
+cell line	0	45	6	35	0	11	1
+Organism part	0	33	4	33	0	6	4
+Organism part,cancer	0	24	3	27	0	8	1
+Organism part,cancer,cell line	0	480	40	603	44	243	12
+Organism part,cell line	0	65	15	71	3	37	0
+HUPO|strict|PepQuery	1	585	33	669	40	275	16
+cancer	0	2	0	8	0	1	1
+cancer,cell line	1	26	2	33	4	10	0
+cell line	0	35	4	22	0	9	1
+Organism part	0	29	2	30	0	5	3
+Organism part,cancer	0	18	1	18	0	7	1
+Organism part,cancer,cell line	0	427	16	509	34	214	10
+Organism part,cell line	0	48	8	49	2	29	0
+loose	8036	27377	198666	33907	1815	9992	1271
+cancer	1478	4388	36539	5816	299	1543	214
+cancer,cell line	439	1725	11520	2031	125	686	70
+cell line	2560	7753	62672	9983	527	2772	376
+Organism part	2117	6893	51456	8541	421	2296	328
+Organism part,cancer	341	1369	8983	1622	81	515	76
+Organism part,cancer,cell line	542	2986	13591	3389	217	1303	122
+Organism part,cell line	559	2263	13905	2525	145	877	85
+loose|PepQuery	1828	9726	50446	10169	554	3518	331
+cancer	321	1151	8538	1302	61	446	44
+cancer,cell line	125	722	3612	816	46	272	23
+cell line	475	2296	13897	2479	130	769	79
+Organism part	430	2072	11280	2043	104	631	68
+Organism part,cancer	92	513	2642	530	25	184	18
+Organism part,cancer,cell line	249	2032	6518	2131	136	861	75
+Organism part,cell line	136	940	3959	868	52	355	24
+strict	351	5052	8457	4220	221	1621	106
+cancer	36	336	819	269	9	75	5
+cancer,cell line	26	359	701	344	26	117	7
+cell line	68	912	1518	720	33	278	14
+Organism part	68	1002	1492	641	27	212	21
+Organism part,cancer	17	318	500	222	5	84	10
+Organism part,cancer,cell line	107	1601	2635	1599	98	650	41
+Organism part,cell line	29	524	792	425	23	205	8
+strict|PepQuery	208	4215	4555	3321	174	1323	67
+cancer	19	234	350	169	6	52	2
+cancer,cell line	16	304	418	288	20	96	6
+cell line	30	696	642	507	25	197	6
+Organism part	35	768	566	447	16	149	11
+Organism part,cancer	9	278	281	165	4	67	4
+Organism part,cancer,cell line	84	1475	1872	1403	85	597	34
+Organism part,cell line	15	460	426	342	18	165	4
