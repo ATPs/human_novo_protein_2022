@@ -1,4 +1,4 @@
-# A massive proteogenomic screen identifies thousands of novel human protein coding sequences
+# A massive proteogenomic screen provided a database of novel peptides from the human “dark” proteome
 
 ## ncORF web
 Visit https://ncorf.genes.fun/
@@ -60,6 +60,9 @@ Linux bash scripts used to process the data. Visit the folder for details.
 
 ## [MS](MS/)
 MS data filtering and processing.
+
+## [Fig_Data](Fig_Data/)
+Some tables related to figures in the manuscript.
 
 # Note
 **`I` were changed to `L` in the stored Peptide sequences**.
