@@ -5,6 +5,8 @@ Visit https://ncorf.genes.fun/
 
 Users may check existence of novel peptides in proteins they are interested in.
 
+If the website does not load, there may be an unstable internet connection. In this case, it is advisable to attempt accessing the website at a later time. However, if the issue persists, it is recommended to contact the author to resolve the issue.
+
 ## Data used in this project was saved in Zenodo (https://zenodo.org/record/7014020).
 
 Files include:
