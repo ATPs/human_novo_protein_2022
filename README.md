@@ -1,4 +1,4 @@
-# A massive proteogenomic screen provided a database of novel peptides from the human “dark” proteome
+# A massive proteogenomic screen identifies thousands of novel peptides from the human “dark” proteome
 
 ## ncORF web
 Visit https://ncorf.genes.fun/
