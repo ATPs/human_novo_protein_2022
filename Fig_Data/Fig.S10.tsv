@@ -1,133 +1,133 @@
-Row Labels	cancer	cancer,cell line	cell line	Organism part	Organism part,cancer	Organism part,cancer,cell line	Organism part,cell line
-best	59	542	326	382	396	4374	761
-All_CDS	1	14	11	10	11	75	27
-All_exon_coding	12	97	62	77	106	567	164
-All_exon_noncoding	6	67	34	24	20	777	80
-All_intergene	2	38	14	15	9	315	32
-All_intron	6	64	33	34	43	725	74
-All_transcript	1	5	1	1	6	32	4
-All_transcript_coding	26	197	134	177	170	1341	312
-All_transcript_noncoding	3	9	11	8	4	116	14
-All_UTR	1	15	7	5	9	125	13
-other	1	36	19	31	18	301	41
-best|PepQuery	55	488	298	338	368	3974	690
-All_CDS	1	14	11	10	11	74	27
-All_exon_coding	11	96	61	72	104	550	161
-All_exon_noncoding	6	60	32	20	18	737	71
-All_intergene	1	26	8	5	6	262	22
-All_intron	6	45	25	21	33	571	50
-All_transcript	1	4	1	1	6	29	4
-All_transcript_coding	25	188	125	170	162	1275	299
-All_transcript_noncoding	3	9	10	8	3	102	11
-All_UTR	0	13	7	3	7	93	10
-other	1	33	18	28	18	281	35
-HUPO|best	0	20	12	17	18	814	36
-All_CDS	0	0	0	1	0	12	2
-All_exon_coding	0	3	0	1	4	113	10
-All_exon_noncoding	0	3	4	3	2	287	5
-All_intergene	0	1	0	0	0	2	0
-All_intron	0	0	0	0	0	6	0
-All_transcript	0	0	0	0	0	10	0
-All_transcript_coding	0	9	7	8	8	257	16
-All_transcript_noncoding	0	1	1	1	0	34	1
-All_UTR	0	2	0	0	0	6	0
-other	0	1	0	3	4	87	2
-HUPO|best|PepQuery	0	17	11	16	18	768	35
-All_CDS	0	0	0	1	0	12	2
-All_exon_coding	0	3	0	1	4	110	10
-All_exon_noncoding	0	3	3	3	2	263	5
-All_intergene	0	1	0	0	0	0	0
-All_intron	0	0	0	0	0	6	0
-All_transcript	0	0	0	0	0	9	0
-All_transcript_coding	0	6	7	7	8	248	15
-All_transcript_noncoding	0	1	1	1	0	33	1
-All_UTR	0	2	0	0	0	6	0
-other	0	1	0	3	4	81	2
-HUPO|loose	989	5126	3113	2332	4382	8373	7838
-All_CDS	3	38	24	21	28	73	48
-All_exon_coding	44	188	121	108	168	533	310
-All_exon_noncoding	56	275	168	130	216	992	416
-All_intergene	186	993	531	430	793	1114	1427
-All_intron	405	1954	1262	905	1707	2343	3040
-All_transcript	2	16	7	5	19	51	38
-All_transcript_coding	178	996	576	470	874	2041	1527
-All_transcript_noncoding	15	115	63	49	90	217	195
-All_UTR	57	290	178	110	249	360	415
-other	43	261	183	104	238	649	422
-HUPO|loose|PepQuery	58	417	248	195	290	2190	620
-All_CDS	1	5	5	6	3	35	9
-All_exon_coding	2	42	24	18	21	246	57
-All_exon_noncoding	7	46	25	18	22	521	60
-All_intergene	2	56	25	23	39	127	76
-All_intron	15	86	41	31	69	238	128
-All_transcript	0	6	2	0	3	21	9
-All_transcript_coding	19	119	87	75	96	656	183
-All_transcript_noncoding	2	8	5	6	6	86	18
-All_UTR	4	21	8	3	10	54	26
-other	6	28	26	15	21	206	54
-HUPO|strict	20	105	98	80	63	1422	191
-All_CDS	0	1	1	5	0	24	7
-All_exon_coding	3	18	14	4	14	194	39
-All_exon_noncoding	4	28	14	10	4	469	29
-All_intergene	0	3	2	2	0	8	3
-All_intron	1	1	4	0	2	19	3
-All_transcript	0	2	2	0	2	17	1
-All_transcript_coding	10	38	45	44	33	469	80
-All_transcript_noncoding	0	3	2	4	0	60	7
-All_UTR	0	4	2	1	0	12	2
-other	2	7	12	10	8	150	20
-HUPO|strict|PepQuery	12	76	71	69	45	1210	136
-All_CDS	0	1	1	5	0	24	6
-All_exon_coding	1	18	14	4	13	175	34
-All_exon_noncoding	3	18	9	8	3	391	18
-All_intergene	0	1	0	1	0	3	0
-All_intron	0	0	3	0	0	11	2
-All_transcript	0	1	1	0	2	13	1
-All_transcript_coding	7	29	32	40	21	407	58
-All_transcript_noncoding	0	1	2	2	0	52	5
-All_UTR	0	2	2	0	0	9	2
-other	1	5	7	9	6	125	10
-loose	50277	16596	86643	72052	12987	22150	20359
-All_CDS	316	103	582	494	97	179	155
-All_exon_coding	1471	627	2773	2290	533	1168	833
-All_exon_noncoding	2032	774	3682	2908	574	1762	967
-All_intergene	10214	3261	17406	14599	2488	3719	3912
-All_intron	24172	7317	41317	33943	5662	8414	8817
-All_transcript	65	34	130	147	34	82	50
-All_transcript_coding	6678	2590	11597	10038	2049	4206	3337
-All_transcript_noncoding	790	303	1398	1191	240	427	390
-All_UTR	3194	990	5420	4410	807	1160	1159
-other	1345	597	2338	2032	503	1033	739
-loose|PepQuery	11863	5616	20125	16628	4004	12002	6334
-All_CDS	95	43	189	139	33	129	68
-All_exon_coding	424	324	929	799	234	854	409
-All_exon_noncoding	517	317	945	708	191	1206	343
-All_intergene	2318	995	3841	3140	687	1822	1117
-All_intron	5408	2302	8699	7150	1708	4094	2503
-All_transcript	19	18	50	38	18	57	16
-All_transcript_coding	1799	981	3236	2839	698	2469	1208
-All_transcript_noncoding	194	99	333	296	72	245	117
-All_UTR	733	329	1217	938	221	579	323
-other	356	208	686	581	142	547	230
-strict	1549	1580	3543	3463	1156	6731	2006
-All_CDS	20	26	85	71	16	93	42
-All_exon_coding	138	198	431	404	155	705	274
-All_exon_noncoding	83	123	246	179	60	963	159
-All_intergene	241	197	404	459	124	735	230
-All_intron	498	434	961	934	333	1623	464
-All_transcript	5	10	14	17	12	39	5
-All_transcript_coding	409	407	997	1054	345	1763	603
-All_transcript_noncoding	26	30	68	62	19	172	40
-All_UTR	64	75	151	116	46	241	69
-other	65	80	186	167	46	397	120
-strict|PepQuery	832	1148	2103	1992	808	5550	1430
-All_CDS	17	22	66	54	14	90	41
-All_exon_coding	100	177	350	313	137	648	252
-All_exon_noncoding	45	100	169	109	45	866	113
-All_intergene	97	113	162	178	70	533	130
-All_intron	211	257	391	343	180	1164	236
-All_transcript	5	8	11	13	10	35	4
-All_transcript_coding	276	339	712	782	271	1566	497
-All_transcript_noncoding	15	23	39	38	12	141	34
-All_UTR	27	52	78	45	31	168	41
-other	39	57	125	117	38	339	82
+Row Labels	<= 50	>500	100-200	200-500	50-100
+best	997	827	1667	1797	1552
+All_CDS	2	34	37	57	19
+All_exon_coding	15	280	221	471	98
+All_exon_noncoding	136	4	369	121	378
+All_intergene	194	0	64	7	160
+All_intron	470	1	96	9	403
+All_transcript	0	4	13	27	6
+All_transcript_coding	77	463	607	924	286
+All_transcript_noncoding	11	4	71	25	54
+All_UTR	72	0	25	6	72
+other	20	37	164	150	76
+best|PepQuery	804	802	1543	1737	1325
+All_CDS	2	34	37	56	19
+All_exon_coding	14	274	217	461	89
+All_exon_noncoding	126	4	343	115	356
+All_intergene	148	0	54	6	122
+All_intron	369	1	71	8	302
+All_transcript	0	4	12	25	5
+All_transcript_coding	65	447	570	896	266
+All_transcript_noncoding	9	4	66	22	45
+All_UTR	55	0	22	6	50
+other	16	34	151	142	71
+HUPO|best	38	106	288	325	160
+All_CDS	0	5	5	3	2
+All_exon_coding	1	26	29	62	13
+All_exon_noncoding	25	2	133	56	88
+All_intergene	0	0	2	0	1
+All_intron	3	0	2	0	1
+All_transcript	0	1	2	6	1
+All_transcript_coding	6	67	59	143	30
+All_transcript_noncoding	2	1	21	8	6
+All_UTR	0	0	2	4	2
+other	1	4	33	43	16
+HUPO|best|PepQuery	35	105	268	310	147
+All_CDS	0	5	5	3	2
+All_exon_coding	1	26	29	59	13
+All_exon_noncoding	24	2	122	51	80
+All_intergene	0	0	0	0	1
+All_intron	3	0	2	0	1
+All_transcript	0	1	2	5	1
+All_transcript_coding	4	66	55	139	27
+All_transcript_noncoding	2	1	20	8	6
+All_UTR	0	0	2	4	2
+other	1	4	31	41	14
+HUPO|loose	6338	1230	8046	4888	11651
+All_CDS	34	29	61	68	43
+All_exon_coding	57	244	388	560	223
+All_exon_noncoding	367	14	774	235	863
+All_intergene	1450	14	1210	282	2518
+All_intron	3557	25	2253	406	5375
+All_transcript	0	15	39	64	20
+All_transcript_coding	284	753	1960	2439	1226
+All_transcript_noncoding	66	11	288	136	243
+All_UTR	451	1	379	61	767
+other	72	124	694	637	373
+HUPO|loose|PepQuery	380	364	1143	1119	1012
+All_CDS	3	14	19	23	5
+All_exon_coding	5	88	99	183	35
+All_exon_noncoding	61	7	295	105	231
+All_intergene	81	1	77	25	164
+All_intron	171	1	119	30	287
+All_transcript	0	6	7	22	6
+All_transcript_coding	22	214	309	544	146
+All_transcript_noncoding	4	4	63	33	27
+All_UTR	25	0	32	8	61
+other	8	29	123	146	50
+HUPO|strict	83	249	608	704	335
+All_CDS	0	9	14	12	3
+All_exon_coding	3	63	62	137	21
+All_exon_noncoding	43	4	244	99	168
+All_intergene	5	0	6	1	6
+All_intron	11	0	7	3	9
+All_transcript	0	1	6	14	3
+All_transcript_coding	14	156	155	323	71
+All_transcript_noncoding	2	1	40	16	17
+All_UTR	1	0	7	4	9
+other	4	15	67	95	28
+HUPO|strict|PepQuery	54	220	485	600	260
+All_CDS	0	9	13	12	3
+All_exon_coding	3	56	57	126	17
+All_exon_noncoding	32	4	196	78	140
+All_intergene	1	0	2	0	2
+All_intron	5	0	4	3	4
+All_transcript	0	1	5	9	3
+All_transcript_coding	9	137	121	275	52
+All_transcript_noncoding	2	1	32	14	13
+All_UTR	0	0	6	4	5
+other	2	12	49	79	21
+loose	106564	6773	41628	20434	105665
+All_CDS	446	232	365	494	389
+All_exon_coding	837	1690	2230	3055	1883
+All_exon_noncoding	4656	34	2346	484	5179
+All_intergene	24419	34	6700	901	23545
+All_intron	62043	62	12868	1411	53258
+All_transcript	23	53	169	179	118
+All_transcript_coding	4234	4266	10880	11501	9614
+All_transcript_noncoding	949	30	1345	411	2004
+All_UTR	7860	3	2031	165	7081
+other	1097	369	2694	1833	2594
+loose|PepQuery	26666	2745	12408	7869	26884
+All_CDS	102	112	145	211	126
+All_exon_coding	217	817	908	1453	578
+All_exon_noncoding	1329	13	982	267	1636
+All_intergene	6112	10	1737	242	5819
+All_intron	15288	13	3195	380	12988
+All_transcript	6	24	66	83	37
+All_transcript_coding	1111	1599	3543	4326	2651
+All_transcript_noncoding	237	12	400	168	539
+All_UTR	1986	1	536	58	1759
+other	278	144	896	681	751
+strict	4541	1735	4131	3971	5650
+All_CDS	12	71	88	135	47
+All_exon_coding	47	591	492	932	243
+All_exon_noncoding	323	7	585	199	699
+All_intergene	1020	3	324	61	982
+All_intron	2436	4	528	74	2205
+All_transcript	3	12	28	46	13
+All_transcript_coding	250	967	1440	2118	803
+All_transcript_noncoding	52	8	160	58	139
+All_UTR	331	0	117	13	301
+other	67	72	369	335	218
+strict|PepQuery	2596	1498	3042	3318	3409
+All_CDS	8	67	71	121	37
+All_exon_coding	35	527	416	823	176
+All_exon_noncoding	236	6	484	172	549
+All_intergene	569	1	176	35	502
+All_intron	1317	2	271	43	1149
+All_transcript	2	12	23	39	10
+All_transcript_coding	160	819	1129	1766	569
+All_transcript_noncoding	37	7	114	47	97
+All_UTR	190	0	75	9	168
+other	42	57	283	263	152

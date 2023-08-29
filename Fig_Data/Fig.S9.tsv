@@ -1,133 +1,97 @@
-Row Labels	<= 50	>500	100-200	200-500	50-100
-best	997	827	1667	1797	1552
-All_CDS	2	34	37	57	19
-All_exon_coding	15	280	221	471	98
-All_exon_noncoding	136	4	369	121	378
-All_intergene	194	0	64	7	160
-All_intron	470	1	96	9	403
-All_transcript	0	4	13	27	6
-All_transcript_coding	77	463	607	924	286
-All_transcript_noncoding	11	4	71	25	54
-All_UTR	72	0	25	6	72
-other	20	37	164	150	76
-best|PepQuery	804	802	1543	1737	1325
-All_CDS	2	34	37	56	19
-All_exon_coding	14	274	217	461	89
-All_exon_noncoding	126	4	343	115	356
-All_intergene	148	0	54	6	122
-All_intron	369	1	71	8	302
-All_transcript	0	4	12	25	5
-All_transcript_coding	65	447	570	896	266
-All_transcript_noncoding	9	4	66	22	45
-All_UTR	55	0	22	6	50
-other	16	34	151	142	71
-HUPO|best	38	106	288	325	160
-All_CDS	0	5	5	3	2
-All_exon_coding	1	26	29	62	13
-All_exon_noncoding	25	2	133	56	88
-All_intergene	0	0	2	0	1
-All_intron	3	0	2	0	1
-All_transcript	0	1	2	6	1
-All_transcript_coding	6	67	59	143	30
-All_transcript_noncoding	2	1	21	8	6
-All_UTR	0	0	2	4	2
-other	1	4	33	43	16
-HUPO|best|PepQuery	35	105	268	310	147
-All_CDS	0	5	5	3	2
-All_exon_coding	1	26	29	59	13
-All_exon_noncoding	24	2	122	51	80
-All_intergene	0	0	0	0	1
-All_intron	3	0	2	0	1
-All_transcript	0	1	2	5	1
-All_transcript_coding	4	66	55	139	27
-All_transcript_noncoding	2	1	20	8	6
-All_UTR	0	0	2	4	2
-other	1	4	31	41	14
-HUPO|loose	6338	1230	8046	4888	11651
-All_CDS	34	29	61	68	43
-All_exon_coding	57	244	388	560	223
-All_exon_noncoding	367	14	774	235	863
-All_intergene	1450	14	1210	282	2518
-All_intron	3557	25	2253	406	5375
-All_transcript	0	15	39	64	20
-All_transcript_coding	284	753	1960	2439	1226
-All_transcript_noncoding	66	11	288	136	243
-All_UTR	451	1	379	61	767
-other	72	124	694	637	373
-HUPO|loose|PepQuery	380	364	1143	1119	1012
-All_CDS	3	14	19	23	5
-All_exon_coding	5	88	99	183	35
-All_exon_noncoding	61	7	295	105	231
-All_intergene	81	1	77	25	164
-All_intron	171	1	119	30	287
-All_transcript	0	6	7	22	6
-All_transcript_coding	22	214	309	544	146
-All_transcript_noncoding	4	4	63	33	27
-All_UTR	25	0	32	8	61
-other	8	29	123	146	50
-HUPO|strict	83	249	608	704	335
-All_CDS	0	9	14	12	3
-All_exon_coding	3	63	62	137	21
-All_exon_noncoding	43	4	244	99	168
-All_intergene	5	0	6	1	6
-All_intron	11	0	7	3	9
-All_transcript	0	1	6	14	3
-All_transcript_coding	14	156	155	323	71
-All_transcript_noncoding	2	1	40	16	17
-All_UTR	1	0	7	4	9
-other	4	15	67	95	28
-HUPO|strict|PepQuery	54	220	485	600	260
-All_CDS	0	9	13	12	3
-All_exon_coding	3	56	57	126	17
-All_exon_noncoding	32	4	196	78	140
-All_intergene	1	0	2	0	2
-All_intron	5	0	4	3	4
-All_transcript	0	1	5	9	3
-All_transcript_coding	9	137	121	275	52
-All_transcript_noncoding	2	1	32	14	13
-All_UTR	0	0	6	4	5
-other	2	12	49	79	21
-loose	106564	6773	41628	20434	105665
-All_CDS	446	232	365	494	389
-All_exon_coding	837	1690	2230	3055	1883
-All_exon_noncoding	4656	34	2346	484	5179
-All_intergene	24419	34	6700	901	23545
-All_intron	62043	62	12868	1411	53258
-All_transcript	23	53	169	179	118
-All_transcript_coding	4234	4266	10880	11501	9614
-All_transcript_noncoding	949	30	1345	411	2004
-All_UTR	7860	3	2031	165	7081
-other	1097	369	2694	1833	2594
-loose|PepQuery	26666	2745	12408	7869	26884
-All_CDS	102	112	145	211	126
-All_exon_coding	217	817	908	1453	578
-All_exon_noncoding	1329	13	982	267	1636
-All_intergene	6112	10	1737	242	5819
-All_intron	15288	13	3195	380	12988
-All_transcript	6	24	66	83	37
-All_transcript_coding	1111	1599	3543	4326	2651
-All_transcript_noncoding	237	12	400	168	539
-All_UTR	1986	1	536	58	1759
-other	278	144	896	681	751
-strict	4541	1735	4131	3971	5650
-All_CDS	12	71	88	135	47
-All_exon_coding	47	591	492	932	243
-All_exon_noncoding	323	7	585	199	699
-All_intergene	1020	3	324	61	982
-All_intron	2436	4	528	74	2205
-All_transcript	3	12	28	46	13
-All_transcript_coding	250	967	1440	2118	803
-All_transcript_noncoding	52	8	160	58	139
-All_UTR	331	0	117	13	301
-other	67	72	369	335	218
-strict|PepQuery	2596	1498	3042	3318	3409
-All_CDS	8	67	71	121	37
-All_exon_coding	35	527	416	823	176
-All_exon_noncoding	236	6	484	172	549
-All_intergene	569	1	176	35	502
-All_intron	1317	2	271	43	1149
-All_transcript	2	12	23	39	10
-All_transcript_coding	160	819	1129	1766	569
-All_transcript_noncoding	37	7	114	47	97
-All_UTR	190	0	75	9	168
-other	42	57	283	263	152
+Row Labels	Bacteria	Homo_sapiens	NA	nonHuman_Primates	nonMammal_Metazoa	nonPrimates_mammals	otherSum
+best	73	2330	1597	1909	103	787	41
+cancer	2	23	10	20	1	3	0
+cancer,cell line	3	185	122	166	7	57	2
+cell line	1	130	54	95	4	40	2
+Organism part	6	185	58	101	2	26	4
+Organism part,cancer	2	191	62	101	4	32	4
+Organism part,cancer,cell line	55	1303	1169	1216	77	527	27
+Organism part,cell line	4	313	122	210	8	102	2
+best|PepQuery	62	2247	1235	1787	96	745	39
+cancer	2	22	8	19	1	3	0
+cancer,cell line	3	177	89	156	7	54	2
+cell line	1	122	44	89	4	37	1
+Organism part	4	180	34	89	1	26	4
+Organism part,cancer	2	188	48	93	4	29	4
+Organism part,cancer,cell line	46	1255	924	1147	73	503	26
+Organism part,cell line	4	303	88	194	6	93	2
+HUPO|best	0	310	8	405	29	152	13
+cancer	0	0	0	0	0	0	0
+cancer,cell line	0	5	1	10	0	4	0
+cell line	0	3	1	4	0	4	0
+Organism part	0	3	1	11	0	1	1
+Organism part,cancer	0	4	0	12	0	1	1
+Organism part,cancer,cell line	0	283	5	350	28	137	11
+Organism part,cell line	0	12	0	18	1	5	0
+HUPO|best|PepQuery	0	299	8	378	27	141	12
+cancer	0	0	0	0	0	0	0
+cancer,cell line	0	5	1	7	0	4	0
+cell line	0	3	1	3	0	4	0
+Organism part	0	3	1	10	0	1	1
+Organism part,cancer	0	4	0	12	0	1	1
+Organism part,cancer,cell line	0	272	5	330	26	125	10
+Organism part,cell line	0	12	0	16	1	6	0
+HUPO|loose	874	4081	19620	5137	291	1977	173
+cancer	30	89	678	137	2	51	2
+cancer,cell line	145	579	3349	714	45	272	22
+cell line	91	354	1985	468	20	174	21
+Organism part	65	281	1487	331	17	140	11
+Organism part,cancer	104	494	2889	613	32	217	33
+Organism part,cancer,cell line	199	1412	4153	1745	105	710	49
+Organism part,cell line	240	872	5079	1129	70	413	35
+HUPO|loose|PepQuery	38	1042	1175	1179	70	488	26
+cancer	0	8	26	16	0	7	1
+cancer,cell line	5	81	181	107	6	34	3
+cell line	3	68	86	62	1	27	1
+Organism part	3	54	64	52	2	17	3
+Organism part,cancer	2	58	132	72	4	19	3
+Organism part,cancer,cell line	19	642	428	733	49	307	12
+Organism part,cell line	6	131	258	137	8	77	3
+HUPO|strict	1	688	77	822	53	319	19
+cancer	0	6	2	10	0	1	1
+cancer,cell line	1	35	7	43	6	13	0
+cell line	0	45	6	35	0	11	1
+Organism part	0	33	4	33	0	6	4
+Organism part,cancer	0	24	3	27	0	8	1
+Organism part,cancer,cell line	0	480	40	603	44	243	12
+Organism part,cell line	0	65	15	71	3	37	0
+HUPO|strict|PepQuery	1	585	33	669	40	275	16
+cancer	0	2	0	8	0	1	1
+cancer,cell line	1	26	2	33	4	10	0
+cell line	0	35	4	22	0	9	1
+Organism part	0	29	2	30	0	5	3
+Organism part,cancer	0	18	1	18	0	7	1
+Organism part,cancer,cell line	0	427	16	509	34	214	10
+Organism part,cell line	0	48	8	49	2	29	0
+loose	8036	27377	198666	33907	1815	9992	1271
+cancer	1478	4388	36539	5816	299	1543	214
+cancer,cell line	439	1725	11520	2031	125	686	70
+cell line	2560	7753	62672	9983	527	2772	376
+Organism part	2117	6893	51456	8541	421	2296	328
+Organism part,cancer	341	1369	8983	1622	81	515	76
+Organism part,cancer,cell line	542	2986	13591	3389	217	1303	122
+Organism part,cell line	559	2263	13905	2525	145	877	85
+loose|PepQuery	1828	9726	50446	10169	554	3518	331
+cancer	321	1151	8538	1302	61	446	44
+cancer,cell line	125	722	3612	816	46	272	23
+cell line	475	2296	13897	2479	130	769	79
+Organism part	430	2072	11280	2043	104	631	68
+Organism part,cancer	92	513	2642	530	25	184	18
+Organism part,cancer,cell line	249	2032	6518	2131	136	861	75
+Organism part,cell line	136	940	3959	868	52	355	24
+strict	351	5052	8457	4220	221	1621	106
+cancer	36	336	819	269	9	75	5
+cancer,cell line	26	359	701	344	26	117	7
+cell line	68	912	1518	720	33	278	14
+Organism part	68	1002	1492	641	27	212	21
+Organism part,cancer	17	318	500	222	5	84	10
+Organism part,cancer,cell line	107	1601	2635	1599	98	650	41
+Organism part,cell line	29	524	792	425	23	205	8
+strict|PepQuery	208	4215	4555	3321	174	1323	67
+cancer	19	234	350	169	6	52	2
+cancer,cell line	16	304	418	288	20	96	6
+cell line	30	696	642	507	25	197	6
+Organism part	35	768	566	447	16	149	11
+Organism part,cancer	9	278	281	165	4	67	4
+Organism part,cancer,cell line	84	1475	1872	1403	85	597	34
+Organism part,cell line	15	460	426	342	18	165	4
