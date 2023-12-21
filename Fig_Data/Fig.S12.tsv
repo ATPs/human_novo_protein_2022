@@ -1,133 +1,361 @@
-Row Labels	Bacteria	Homo_sapiens	NA	nonHuman_Primates	nonMammal_Metazoa	nonPrimates_mammals	otherSum
-best	73	2330	1597	1909	103	787	41
-All_CDS	0	94	1	31	4	18	1
-All_exon_coding	0	625	33	280	11	129	7
-All_exon_noncoding	4	205	55	499	47	191	7
-All_intergene	24	13	336	35	2	13	2
-All_intron	38	26	802	79	5	27	2
-All_transcript	0	24	3	16	1	5	1
-All_transcript_coding	4	1160	149	696	27	308	13
-All_transcript_noncoding	1	34	37	64	3	24	2
-All_UTR	2	13	135	15	1	6	3
-other	0	136	46	194	2	66	3
-best|PepQuery	62	2247	1235	1787	96	745	39
-All_CDS	0	93	1	31	4	18	1
-All_exon_coding	0	612	25	274	10	127	7
-All_exon_noncoding	3	195	45	468	45	181	7
-All_intergene	19	11	261	27	1	9	2
-All_intron	34	20	620	55	3	17	2
-All_transcript	0	23	1	15	1	5	1
-All_transcript_coding	3	1116	121	667	26	298	13
-All_transcript_noncoding	1	33	26	58	3	24	1
-All_UTR	2	12	98	12	1	6	2
-other	0	132	37	180	2	60	3
-HUPO|best	0	310	8	405	29	152	13
-All_CDS	0	8	0	4	1	1	1
-All_exon_coding	0	65	0	44	3	19	0
-All_exon_noncoding	0	70	1	166	14	49	4
-All_intergene	0	1	1	0	0	1	0
-All_intron	0	0	1	3	0	2	0
-All_transcript	0	3	0	5	1	0	1
-All_transcript_coding	0	126	1	112	6	56	4
-All_transcript_noncoding	0	7	1	19	2	8	1
-All_UTR	0	1	2	4	1	0	0
-other	0	29	1	48	1	16	2
-HUPO|best|PepQuery	0	299	8	378	27	141	12
-All_CDS	0	8	0	4	1	1	1
-All_exon_coding	0	64	0	42	3	19	0
-All_exon_noncoding	0	66	1	150	13	45	4
-All_intergene	0	0	1	0	0	0	0
-All_intron	0	0	1	3	0	2	0
-All_transcript	0	3	0	4	1	0	1
-All_transcript_coding	0	122	1	106	5	54	3
-All_transcript_noncoding	0	7	1	19	2	7	1
-All_UTR	0	1	2	4	1	0	0
-other	0	28	1	46	1	13	2
-HUPO|loose	874	4081	19620	5137	291	1977	173
-All_CDS	1	97	57	41	7	31	1
-All_exon_coding	1	581	280	376	18	208	8
-All_exon_noncoding	25	359	810	750	53	240	16
-All_intergene	293	172	4315	448	55	152	39
-All_intron	503	274	9536	885	77	270	71
-All_transcript	1	37	25	57	2	14	2
-All_transcript_coding	11	2061	2081	1678	57	756	18
-All_transcript_noncoding	9	101	375	194	8	53	4
-All_UTR	23	53	1395	117	6	57	8
-other	7	346	746	591	8	196	6
-HUPO|loose|PepQuery	38	1042	1175	1179	70	488	26
-All_CDS	0	34	1	17	2	9	1
-All_exon_coding	0	201	19	113	5	71	1
-All_exon_noncoding	3	160	48	333	28	119	8
-All_intergene	17	8	278	28	4	12	1
-All_intron	15	15	519	39	3	13	4
-All_transcript	0	15	3	16	2	3	2
-All_transcript_coding	1	491	134	391	19	193	6
-All_transcript_noncoding	2	26	24	59	3	16	1
-All_UTR	0	8	95	12	2	9	0
-other	0	84	54	171	2	43	2
-HUPO|strict	1	688	77	822	53	319	19
-All_CDS	0	20	0	10	1	6	1
-All_exon_coding	0	141	6	95	4	39	1
-All_exon_noncoding	1	127	6	292	28	97	7
-All_intergene	0	1	11	3	0	3	0
-All_intron	0	1	19	7	0	3	0
-All_transcript	0	9	0	11	1	2	1
-All_transcript_coding	0	308	16	257	12	121	5
-All_transcript_noncoding	0	18	2	36	4	15	1
-All_UTR	0	4	10	4	1	2	0
-other	0	59	7	107	2	31	3
-HUPO|strict|PepQuery	1	585	33	669	40	275	16
-All_CDS	0	19	0	10	1	6	1
-All_exon_coding	0	130	3	85	3	37	1
-All_exon_noncoding	1	101	3	237	20	82	6
-All_intergene	0	0	3	1	0	1	0
-All_intron	0	1	6	6	0	3	0
-All_transcript	0	7	0	7	1	2	1
-All_transcript_coding	0	258	8	206	10	108	4
-All_transcript_noncoding	0	14	1	32	2	12	1
-All_UTR	0	2	6	4	1	2	0
-other	0	53	3	81	2	22	2
-loose	8036	27377	198666	33907	1815	9992	1271
-All_CDS	4	838	579	239	41	217	8
-All_exon_coding	7	4165	2381	2063	80	956	43
-All_exon_noncoding	206	1252	7993	2275	153	750	70
-All_intergene	2523	1644	44414	5161	389	1124	344
-All_intron	4848	3094	106504	11528	748	2307	613
-All_transcript	1	160	166	170	3	40	2
-All_transcript_coding	131	13924	14024	8541	296	3479	100
-All_transcript_noncoding	62	505	3063	882	19	184	24
-All_UTR	204	462	15003	1081	45	304	41
-other	50	1333	4539	1967	41	631	26
-loose|PepQuery	1828	9726	50446	10169	554	3518	331
-All_CDS	2	350	143	103	17	79	2
-All_exon_coding	3	1916	611	919	33	471	20
-All_exon_noncoding	44	543	2019	1110	85	400	26
-All_intergene	612	350	11447	1068	91	278	74
-All_intron	1069	650	26804	2466	172	566	137
-All_transcript	0	73	49	71	3	18	2
-All_transcript_coding	33	5030	3615	3083	120	1308	41
-All_transcript_noncoding	21	168	769	302	8	80	8
-All_UTR	38	127	3793	285	9	76	12
-other	6	519	1196	762	16	242	9
-strict	351	5052	8457	4220	221	1621	106
-All_CDS	0	222	19	64	9	38	1
-All_exon_coding	1	1277	134	577	17	288	11
-All_exon_noncoding	11	341	335	751	68	294	13
-All_intergene	113	72	1901	218	22	46	18
-All_intron	199	143	4317	439	23	99	27
-All_transcript	0	46	10	35	1	9	1
-All_transcript_coding	10	2568	720	1543	62	654	21
-All_transcript_noncoding	5	78	154	128	6	43	3
-All_UTR	12	20	640	59	4	23	4
-other	0	285	227	406	9	127	7
-strict|PepQuery	208	4215	4555	3321	174	1323	67
-All_CDS	0	195	11	57	8	32	1
-All_exon_coding	1	1127	76	497	16	249	11
-All_exon_noncoding	6	294	175	650	60	251	11
-All_intergene	73	40	1025	106	7	27	5
-All_intron	108	74	2295	230	16	48	11
-All_transcript	0	41	6	29	1	8	1
-All_transcript_coding	8	2131	396	1288	52	549	19
-All_transcript_noncoding	4	65	87	103	5	37	1
-All_UTR	8	18	359	36	2	17	2
-other	0	230	125	325	7	105	5
+keyword	blast_species	gencode_loc	pr_count
+relaxed	Bacteria	All_CDS	3
+relaxed	Bacteria	All_UTR	80
+relaxed	Bacteria	All_exon_coding	3
+relaxed	Bacteria	All_exon_noncoding	105
+relaxed	Bacteria	All_intergene	1231
+relaxed	Bacteria	All_intron	2297
+relaxed	Bacteria	All_transcript	1
+relaxed	Bacteria	All_transcript_coding	70
+relaxed	Bacteria	All_transcript_noncoding	30
+relaxed	Bacteria	other	23
+relaxed	Homo_sapiens	All_CDS	515
+relaxed	Homo_sapiens	All_UTR	194
+relaxed	Homo_sapiens	All_exon_coding	2901
+relaxed	Homo_sapiens	All_exon_noncoding	726
+relaxed	Homo_sapiens	All_intergene	768
+relaxed	Homo_sapiens	All_intron	1433
+relaxed	Homo_sapiens	All_transcript	114
+relaxed	Homo_sapiens	All_transcript_coding	8121
+relaxed	Homo_sapiens	All_transcript_noncoding	282
+relaxed	Homo_sapiens	other	786
+relaxed	nonHuman_Primates	All_CDS	131
+relaxed	nonHuman_Primates	All_UTR	483
+relaxed	nonHuman_Primates	All_exon_coding	1216
+relaxed	nonHuman_Primates	All_exon_noncoding	1490
+relaxed	nonHuman_Primates	All_intergene	2558
+relaxed	nonHuman_Primates	All_intron	5573
+relaxed	nonHuman_Primates	All_transcript	101
+relaxed	nonHuman_Primates	All_transcript_coding	4461
+relaxed	nonHuman_Primates	All_transcript_noncoding	472
+relaxed	nonHuman_Primates	other	1124
+relaxed	nonMammal_Metazoa	All_CDS	18
+relaxed	nonMammal_Metazoa	All_UTR	17
+relaxed	nonMammal_Metazoa	All_exon_coding	51
+relaxed	nonMammal_Metazoa	All_exon_noncoding	101
+relaxed	nonMammal_Metazoa	All_intergene	190
+relaxed	nonMammal_Metazoa	All_intron	346
+relaxed	nonMammal_Metazoa	All_transcript	2
+relaxed	nonMammal_Metazoa	All_transcript_coding	159
+relaxed	nonMammal_Metazoa	All_transcript_noncoding	14
+relaxed	nonMammal_Metazoa	other	22
+relaxed	nonPrimates_mammals	All_CDS	113
+relaxed	nonPrimates_mammals	All_UTR	118
+relaxed	nonPrimates_mammals	All_exon_coding	600
+relaxed	nonPrimates_mammals	All_exon_noncoding	538
+relaxed	nonPrimates_mammals	All_intergene	584
+relaxed	nonPrimates_mammals	All_intron	1127
+relaxed	nonPrimates_mammals	All_transcript	21
+relaxed	nonPrimates_mammals	All_transcript_coding	1764
+relaxed	nonPrimates_mammals	All_transcript_noncoding	116
+relaxed	nonPrimates_mammals	other	339
+relaxed	otherSum	All_CDS	4
+relaxed	otherSum	All_UTR	22
+relaxed	otherSum	All_exon_coding	23
+relaxed	otherSum	All_exon_noncoding	39
+relaxed	otherSum	All_intergene	154
+relaxed	otherSum	All_intron	286
+relaxed	otherSum	All_transcript	3
+relaxed	otherSum	All_transcript_coding	61
+relaxed	otherSum	All_transcript_noncoding	13
+relaxed	otherSum	other	16
+relaxed|pepquery	Bacteria	All_CDS	0
+relaxed|pepquery	Bacteria	All_UTR	18
+relaxed|pepquery	Bacteria	All_exon_coding	3
+relaxed|pepquery	Bacteria	All_exon_noncoding	28
+relaxed|pepquery	Bacteria	All_intergene	294
+relaxed|pepquery	Bacteria	All_intron	528
+relaxed|pepquery	Bacteria	All_transcript	0
+relaxed|pepquery	Bacteria	All_transcript_coding	20
+relaxed|pepquery	Bacteria	All_transcript_noncoding	12
+relaxed|pepquery	Bacteria	other	4
+relaxed|pepquery	Homo_sapiens	All_CDS	286
+relaxed|pepquery	Homo_sapiens	All_UTR	68
+relaxed|pepquery	Homo_sapiens	All_exon_coding	1687
+relaxed|pepquery	Homo_sapiens	All_exon_noncoding	398
+relaxed|pepquery	Homo_sapiens	All_intergene	167
+relaxed|pepquery	Homo_sapiens	All_intron	323
+relaxed|pepquery	Homo_sapiens	All_transcript	62
+relaxed|pepquery	Homo_sapiens	All_transcript_coding	3558
+relaxed|pepquery	Homo_sapiens	All_transcript_noncoding	114
+relaxed|pepquery	Homo_sapiens	other	372
+relaxed|pepquery	nonHuman_Primates	All_CDS	78
+relaxed|pepquery	nonHuman_Primates	All_UTR	145
+relaxed|pepquery	nonHuman_Primates	All_exon_coding	729
+relaxed|pepquery	nonHuman_Primates	All_exon_noncoding	858
+relaxed|pepquery	nonHuman_Primates	All_intergene	517
+relaxed|pepquery	nonHuman_Primates	All_intron	1224
+relaxed|pepquery	nonHuman_Primates	All_transcript	44
+relaxed|pepquery	nonHuman_Primates	All_transcript_coding	2073
+relaxed|pepquery	nonHuman_Primates	All_transcript_noncoding	191
+relaxed|pepquery	nonHuman_Primates	other	529
+relaxed|pepquery	nonMammal_Metazoa	All_CDS	13
+relaxed|pepquery	nonMammal_Metazoa	All_UTR	8
+relaxed|pepquery	nonMammal_Metazoa	All_exon_coding	24
+relaxed|pepquery	nonMammal_Metazoa	All_exon_noncoding	68
+relaxed|pepquery	nonMammal_Metazoa	All_intergene	36
+relaxed|pepquery	nonMammal_Metazoa	All_intron	75
+relaxed|pepquery	nonMammal_Metazoa	All_transcript	2
+relaxed|pepquery	nonMammal_Metazoa	All_transcript_coding	80
+relaxed|pepquery	nonMammal_Metazoa	All_transcript_noncoding	6
+relaxed|pepquery	nonMammal_Metazoa	other	10
+relaxed|pepquery	nonPrimates_mammals	All_CDS	56
+relaxed|pepquery	nonPrimates_mammals	All_UTR	41
+relaxed|pepquery	nonPrimates_mammals	All_exon_coding	371
+relaxed|pepquery	nonPrimates_mammals	All_exon_noncoding	337
+relaxed|pepquery	nonPrimates_mammals	All_intergene	157
+relaxed|pepquery	nonPrimates_mammals	All_intron	303
+relaxed|pepquery	nonPrimates_mammals	All_transcript	12
+relaxed|pepquery	nonPrimates_mammals	All_transcript_coding	810
+relaxed|pepquery	nonPrimates_mammals	All_transcript_noncoding	56
+relaxed|pepquery	nonPrimates_mammals	other	164
+relaxed|pepquery	otherSum	All_CDS	2
+relaxed|pepquery	otherSum	All_UTR	6
+relaxed|pepquery	otherSum	All_exon_coding	16
+relaxed|pepquery	otherSum	All_exon_noncoding	19
+relaxed|pepquery	otherSum	All_intergene	35
+relaxed|pepquery	otherSum	All_intron	60
+relaxed|pepquery	otherSum	All_transcript	3
+relaxed|pepquery	otherSum	All_transcript_coding	31
+relaxed|pepquery	otherSum	All_transcript_noncoding	3
+relaxed|pepquery	otherSum	other	6
+strictest	Bacteria	All_CDS	0
+strictest	Bacteria	All_UTR	1
+strictest	Bacteria	All_exon_coding	0
+strictest	Bacteria	All_exon_noncoding	4
+strictest	Bacteria	All_intergene	11
+strictest	Bacteria	All_intron	18
+strictest	Bacteria	All_transcript	0
+strictest	Bacteria	All_transcript_coding	2
+strictest	Bacteria	All_transcript_noncoding	1
+strictest	Bacteria	other	0
+strictest	Homo_sapiens	All_CDS	88
+strictest	Homo_sapiens	All_UTR	8
+strictest	Homo_sapiens	All_exon_coding	576
+strictest	Homo_sapiens	All_exon_noncoding	167
+strictest	Homo_sapiens	All_intergene	8
+strictest	Homo_sapiens	All_intron	13
+strictest	Homo_sapiens	All_transcript	23
+strictest	Homo_sapiens	All_transcript_coding	927
+strictest	Homo_sapiens	All_transcript_noncoding	29
+strictest	Homo_sapiens	other	114
+strictest	nonHuman_Primates	All_CDS	30
+strictest	nonHuman_Primates	All_UTR	11
+strictest	nonHuman_Primates	All_exon_coding	229
+strictest	nonHuman_Primates	All_exon_noncoding	404
+strictest	nonHuman_Primates	All_intergene	16
+strictest	nonHuman_Primates	All_intron	38
+strictest	nonHuman_Primates	All_transcript	14
+strictest	nonHuman_Primates	All_transcript_coding	552
+strictest	nonHuman_Primates	All_transcript_noncoding	52
+strictest	nonHuman_Primates	other	148
+strictest	nonMammal_Metazoa	All_CDS	4
+strictest	nonMammal_Metazoa	All_UTR	2
+strictest	nonMammal_Metazoa	All_exon_coding	8
+strictest	nonMammal_Metazoa	All_exon_noncoding	35
+strictest	nonMammal_Metazoa	All_intergene	1
+strictest	nonMammal_Metazoa	All_intron	2
+strictest	nonMammal_Metazoa	All_transcript	1
+strictest	nonMammal_Metazoa	All_transcript_coding	20
+strictest	nonMammal_Metazoa	All_transcript_noncoding	3
+strictest	nonMammal_Metazoa	other	3
+strictest	nonPrimates_mammals	All_CDS	18
+strictest	nonPrimates_mammals	All_UTR	5
+strictest	nonPrimates_mammals	All_exon_coding	104
+strictest	nonPrimates_mammals	All_exon_noncoding	175
+strictest	nonPrimates_mammals	All_intergene	8
+strictest	nonPrimates_mammals	All_intron	12
+strictest	nonPrimates_mammals	All_transcript	3
+strictest	nonPrimates_mammals	All_transcript_coding	229
+strictest	nonPrimates_mammals	All_transcript_noncoding	22
+strictest	nonPrimates_mammals	other	58
+strictest	otherSum	All_CDS	1
+strictest	otherSum	All_UTR	2
+strictest	otherSum	All_exon_coding	6
+strictest	otherSum	All_exon_noncoding	6
+strictest	otherSum	All_intergene	1
+strictest	otherSum	All_intron	2
+strictest	otherSum	All_transcript	1
+strictest	otherSum	All_transcript_coding	12
+strictest	otherSum	All_transcript_noncoding	1
+strictest	otherSum	other	3
+strictest|pepquery	Bacteria	All_CDS	0
+strictest|pepquery	Bacteria	All_UTR	1
+strictest|pepquery	Bacteria	All_exon_coding	0
+strictest|pepquery	Bacteria	All_exon_noncoding	3
+strictest|pepquery	Bacteria	All_intergene	10
+strictest|pepquery	Bacteria	All_intron	16
+strictest|pepquery	Bacteria	All_transcript	0
+strictest|pepquery	Bacteria	All_transcript_coding	2
+strictest|pepquery	Bacteria	All_transcript_noncoding	1
+strictest|pepquery	Bacteria	other	0
+strictest|pepquery	Homo_sapiens	All_CDS	87
+strictest|pepquery	Homo_sapiens	All_UTR	8
+strictest|pepquery	Homo_sapiens	All_exon_coding	565
+strictest|pepquery	Homo_sapiens	All_exon_noncoding	158
+strictest|pepquery	Homo_sapiens	All_intergene	6
+strictest|pepquery	Homo_sapiens	All_intron	9
+strictest|pepquery	Homo_sapiens	All_transcript	23
+strictest|pepquery	Homo_sapiens	All_transcript_coding	904
+strictest|pepquery	Homo_sapiens	All_transcript_noncoding	28
+strictest|pepquery	Homo_sapiens	other	107
+strictest|pepquery	nonHuman_Primates	All_CDS	30
+strictest|pepquery	nonHuman_Primates	All_UTR	9
+strictest|pepquery	nonHuman_Primates	All_exon_coding	225
+strictest|pepquery	nonHuman_Primates	All_exon_noncoding	378
+strictest|pepquery	nonHuman_Primates	All_intergene	16
+strictest|pepquery	nonHuman_Primates	All_intron	32
+strictest|pepquery	nonHuman_Primates	All_transcript	12
+strictest|pepquery	nonHuman_Primates	All_transcript_coding	533
+strictest|pepquery	nonHuman_Primates	All_transcript_noncoding	48
+strictest|pepquery	nonHuman_Primates	other	139
+strictest|pepquery	nonMammal_Metazoa	All_CDS	4
+strictest|pepquery	nonMammal_Metazoa	All_UTR	2
+strictest|pepquery	nonMammal_Metazoa	All_exon_coding	8
+strictest|pepquery	nonMammal_Metazoa	All_exon_noncoding	32
+strictest|pepquery	nonMammal_Metazoa	All_intergene	0
+strictest|pepquery	nonMammal_Metazoa	All_intron	1
+strictest|pepquery	nonMammal_Metazoa	All_transcript	1
+strictest|pepquery	nonMammal_Metazoa	All_transcript_coding	17
+strictest|pepquery	nonMammal_Metazoa	All_transcript_noncoding	3
+strictest|pepquery	nonMammal_Metazoa	other	3
+strictest|pepquery	nonPrimates_mammals	All_CDS	17
+strictest|pepquery	nonPrimates_mammals	All_UTR	5
+strictest|pepquery	nonPrimates_mammals	All_exon_coding	104
+strictest|pepquery	nonPrimates_mammals	All_exon_noncoding	169
+strictest|pepquery	nonPrimates_mammals	All_intergene	6
+strictest|pepquery	nonPrimates_mammals	All_intron	10
+strictest|pepquery	nonPrimates_mammals	All_transcript	3
+strictest|pepquery	nonPrimates_mammals	All_transcript_coding	221
+strictest|pepquery	nonPrimates_mammals	All_transcript_noncoding	22
+strictest|pepquery	nonPrimates_mammals	other	54
+strictest|pepquery	otherSum	All_CDS	1
+strictest|pepquery	otherSum	All_UTR	2
+strictest|pepquery	otherSum	All_exon_coding	6
+strictest|pepquery	otherSum	All_exon_noncoding	6
+strictest|pepquery	otherSum	All_intergene	1
+strictest|pepquery	otherSum	All_intron	2
+strictest|pepquery	otherSum	All_transcript	1
+strictest|pepquery	otherSum	All_transcript_coding	12
+strictest|pepquery	otherSum	All_transcript_noncoding	1
+strictest|pepquery	otherSum	other	3
+stringent	Bacteria	All_CDS	0
+stringent	Bacteria	All_UTR	3
+stringent	Bacteria	All_exon_coding	0
+stringent	Bacteria	All_exon_noncoding	8
+stringent	Bacteria	All_intergene	44
+stringent	Bacteria	All_intron	85
+stringent	Bacteria	All_transcript	0
+stringent	Bacteria	All_transcript_coding	4
+stringent	Bacteria	All_transcript_noncoding	2
+stringent	Bacteria	other	0
+stringent	Homo_sapiens	All_CDS	205
+stringent	Homo_sapiens	All_UTR	17
+stringent	Homo_sapiens	All_exon_coding	1218
+stringent	Homo_sapiens	All_exon_noncoding	281
+stringent	Homo_sapiens	All_intergene	31
+stringent	Homo_sapiens	All_intron	60
+stringent	Homo_sapiens	All_transcript	43
+stringent	Homo_sapiens	All_transcript_coding	2112
+stringent	Homo_sapiens	All_transcript_noncoding	61
+stringent	Homo_sapiens	other	228
+stringent	nonHuman_Primates	All_CDS	56
+stringent	nonHuman_Primates	All_UTR	25
+stringent	nonHuman_Primates	All_exon_coding	492
+stringent	nonHuman_Primates	All_exon_noncoding	646
+stringent	nonHuman_Primates	All_intergene	86
+stringent	nonHuman_Primates	All_intron	178
+stringent	nonHuman_Primates	All_transcript	29
+stringent	nonHuman_Primates	All_transcript_coding	1241
+stringent	nonHuman_Primates	All_transcript_noncoding	96
+stringent	nonHuman_Primates	other	307
+stringent	nonMammal_Metazoa	All_CDS	5
+stringent	nonMammal_Metazoa	All_UTR	3
+stringent	nonMammal_Metazoa	All_exon_coding	14
+stringent	nonMammal_Metazoa	All_exon_noncoding	62
+stringent	nonMammal_Metazoa	All_intergene	6
+stringent	nonMammal_Metazoa	All_intron	8
+stringent	nonMammal_Metazoa	All_transcript	1
+stringent	nonMammal_Metazoa	All_transcript_coding	47
+stringent	nonMammal_Metazoa	All_transcript_noncoding	5
+stringent	nonMammal_Metazoa	other	5
+stringent	nonPrimates_mammals	All_CDS	35
+stringent	nonPrimates_mammals	All_UTR	11
+stringent	nonPrimates_mammals	All_exon_coding	225
+stringent	nonPrimates_mammals	All_exon_noncoding	264
+stringent	nonPrimates_mammals	All_intergene	26
+stringent	nonPrimates_mammals	All_intron	42
+stringent	nonPrimates_mammals	All_transcript	7
+stringent	nonPrimates_mammals	All_transcript_coding	497
+stringent	nonPrimates_mammals	All_transcript_noncoding	35
+stringent	nonPrimates_mammals	other	105
+stringent	otherSum	All_CDS	2
+stringent	otherSum	All_UTR	3
+stringent	otherSum	All_exon_coding	11
+stringent	otherSum	All_exon_noncoding	9
+stringent	otherSum	All_intergene	5
+stringent	otherSum	All_intron	10
+stringent	otherSum	All_transcript	1
+stringent	otherSum	All_transcript_coding	18
+stringent	otherSum	All_transcript_noncoding	2
+stringent	otherSum	other	5
+stringent|pepquery	Bacteria	All_CDS	0
+stringent|pepquery	Bacteria	All_UTR	2
+stringent|pepquery	Bacteria	All_exon_coding	0
+stringent|pepquery	Bacteria	All_exon_noncoding	4
+stringent|pepquery	Bacteria	All_intergene	24
+stringent|pepquery	Bacteria	All_intron	56
+stringent|pepquery	Bacteria	All_transcript	0
+stringent|pepquery	Bacteria	All_transcript_coding	3
+stringent|pepquery	Bacteria	All_transcript_noncoding	2
+stringent|pepquery	Bacteria	other	0
+stringent|pepquery	Homo_sapiens	All_CDS	180
+stringent|pepquery	Homo_sapiens	All_UTR	15
+stringent|pepquery	Homo_sapiens	All_exon_coding	1116
+stringent|pepquery	Homo_sapiens	All_exon_noncoding	247
+stringent|pepquery	Homo_sapiens	All_intergene	20
+stringent|pepquery	Homo_sapiens	All_intron	33
+stringent|pepquery	Homo_sapiens	All_transcript	40
+stringent|pepquery	Homo_sapiens	All_transcript_coding	1837
+stringent|pepquery	Homo_sapiens	All_transcript_noncoding	49
+stringent|pepquery	Homo_sapiens	other	191
+stringent|pepquery	nonHuman_Primates	All_CDS	53
+stringent|pepquery	nonHuman_Primates	All_UTR	18
+stringent|pepquery	nonHuman_Primates	All_exon_coding	447
+stringent|pepquery	nonHuman_Primates	All_exon_noncoding	561
+stringent|pepquery	nonHuman_Primates	All_intergene	46
+stringent|pepquery	nonHuman_Primates	All_intron	100
+stringent|pepquery	nonHuman_Primates	All_transcript	25
+stringent|pepquery	nonHuman_Primates	All_transcript_coding	1067
+stringent|pepquery	nonHuman_Primates	All_transcript_noncoding	86
+stringent|pepquery	nonHuman_Primates	other	261
+stringent|pepquery	nonMammal_Metazoa	All_CDS	5
+stringent|pepquery	nonMammal_Metazoa	All_UTR	2
+stringent|pepquery	nonMammal_Metazoa	All_exon_coding	12
+stringent|pepquery	nonMammal_Metazoa	All_exon_noncoding	53
+stringent|pepquery	nonMammal_Metazoa	All_intergene	1
+stringent|pepquery	nonMammal_Metazoa	All_intron	4
+stringent|pepquery	nonMammal_Metazoa	All_transcript	1
+stringent|pepquery	nonMammal_Metazoa	All_transcript_coding	39
+stringent|pepquery	nonMammal_Metazoa	All_transcript_noncoding	5
+stringent|pepquery	nonMammal_Metazoa	other	4
+stringent|pepquery	nonPrimates_mammals	All_CDS	30
+stringent|pepquery	nonPrimates_mammals	All_UTR	10
+stringent|pepquery	nonPrimates_mammals	All_exon_coding	199
+stringent|pepquery	nonPrimates_mammals	All_exon_noncoding	228
+stringent|pepquery	nonPrimates_mammals	All_intergene	18
+stringent|pepquery	nonPrimates_mammals	All_intron	28
+stringent|pepquery	nonPrimates_mammals	All_transcript	7
+stringent|pepquery	nonPrimates_mammals	All_transcript_coding	421
+stringent|pepquery	nonPrimates_mammals	All_transcript_noncoding	31
+stringent|pepquery	nonPrimates_mammals	other	90
+stringent|pepquery	otherSum	All_CDS	1
+stringent|pepquery	otherSum	All_UTR	2
+stringent|pepquery	otherSum	All_exon_coding	10
+stringent|pepquery	otherSum	All_exon_noncoding	9
+stringent|pepquery	otherSum	All_intergene	3
+stringent|pepquery	otherSum	All_intron	7
+stringent|pepquery	otherSum	All_transcript	1
+stringent|pepquery	otherSum	All_transcript_coding	17
+stringent|pepquery	otherSum	All_transcript_noncoding	1
+stringent|pepquery	otherSum	other	4

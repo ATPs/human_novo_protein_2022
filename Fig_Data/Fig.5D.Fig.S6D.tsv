@@ -1,0 +1,7 @@
+filtering_criteria	protein_count	gene_count	protein_count|blast	gene_count|blast	protein_count|blast|Homo_sapiens	protein_count|blast|nonHuman_Primates	protein_count|blast|nonPrimates_mammals	protein_count|blast|nonMammal_Metazoa	protein_count|blast|Bacteria	protein_count|blast|Viruses	protein_count|blast|Fungi	protein_count|blast|Viridiplantae	protein_count|blast|Archaea	protein_count|blast|other	gene_count|blast|Homo_sapiens	gene_count|blast|nonHuman_Primates	gene_count|blast|nonPrimates_mammals	gene_count|blast|nonMammal_Metazoa	gene_count|blast|Bacteria	gene_count|blast|Viruses	gene_count|blast|Fungi	gene_count|blast|Viridiplantae	gene_count|blast|Archaea	gene_count|blast|other
+relaxed	138831	21397	44153	11156	15840	17609	5320	920	3843	34	134	23	41	389	4333	4070	1206	232	1127	11	53	8	11	105
+stringent	12437	5486	9027	4027	4256	3156	1247	156	146	0	7	0	2	57	1856	1475	510	64	87	0	4	0	2	29
+strictest	4987	2925	4232	2467	1953	1494	634	79	37	0	2	0	0	33	1122	919	335	39	29	0	1	0	0	22
+relaxed|pepquery	42159	11959	17140	6383	7035	6388	2307	322	907	6	35	5	7	128	2640	2329	803	114	411	4	20	3	5	54
+stringent|pepquery	9808	4579	7726	3570	3728	2664	1062	126	91	0	4	0	2	49	1664	1316	449	51	62	0	2	0	2	24
+strictest|pepquery	4681	2758	4067	2370	1895	1422	611	71	33	0	2	0	0	33	1085	879	321	35	27	0	1	0	0	22

@@ -1,0 +1,12 @@
+genomic_group,relaxed,stringent,strictest,relaxed|pepquery,stringent|pepquery,strictest|pepquery
+All_CDS,9466,4496,2106,6023,4101,2083
+All_UTR,13665,997,357,3984,762,319
+All_exon_coding,3572,900,415,1486,780,405
+All_exon_noncoding,13114,3694,1995,5794,3007,1828
+All_intron,72667,2536,568,18229,1594,482
+All_transcript_coding,10415,1988,743,3709,1606,701
+All_transcript_noncoding,793,52,20,190,36,17
+All_transcript,86,24,12,43,22,11
+All_intergene,29400,1004,210,7265,604,166
+other,1080,101,37,302,74,36
+All,154258,15792,6463,47025,12586,6048
