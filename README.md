@@ -59,8 +59,9 @@ If the website does not load, there may be an unstable internet connection. In t
   * domain structures predicted by InterProScan v5.38 of proteins in `Table_S5_proteins.info.tsv.gz`. The meaning of each columns can be found: https://interproscan-docs.readthedocs.io/en/latest/OutputFormats.html.
 * **CircAtlas2.0.human_sequence_v2.0.translation.30AA.protein.fa.gz**: 
   * protein sequences from circRNA 6-frame translation. cicrRNA sequences were downloaded from CircAtlas 2.0 database.
-* **20220127peptides_moreThan1ChrLocs.ExpandLocs.AddGENOCDEloc.tsv.gz** peptides with more than one genomic location. 
-* **20220127Proteins_FromPepLoc2_info.AddBlastAndTaxon.AddGENOCDEloc.tsv.gz** proteins with peptides with more than one genomic location. For location of the peptide, one single representative protein was selected.
+* **20231210NW_pep.pepquery.multiple.EachLoc.tsv.gz** peptides with more than one genomic location. 
+* **20231210NW_pep.pepquery.other.tsv.gz** peptides that cannot be located to the chromosomes precisely. They may from scaffolds of the genome, or resulting from mutations other than amino acid substitution.
+* **20231218Proteins_FromPepLocMultiple_info.AddBlastAndTaxon.AddGENOCDEloc.tsv.gz** proteins with peptides with more than one genomic location. For location of the peptide, one single representative protein was selected.
 
 Other files and methods could be provided upon request.
 
