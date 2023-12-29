@@ -37,7 +37,7 @@ If the website does not load, there may be an unstable internet connection. In t
     * **peptides|q-value|min**: minimum q-value for peptide sequences calculated by Percolator.
     * **GENCODE|group**: relative location of peptides to GENCODE gene models. Values could be 'All_intron', 'All_intergene', 'All_UTR', 'All_exon_noncoding', 'All_transcript_coding', 'All_CDS', 'All_exon_coding', 'other', 'All_transcript_noncoding', 'All_transcript'.
     * **spectrums**: Spectrums matches with the peptides. The IDs look like "26N1_31599,1G48_65306", where "26N1" is the MS run ID in table S3 of the manuscript and "31599" 
-    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**, **HUPO|relaxed**, **HUPO|stringent**, **HUPO|strictest**, **HUPO|relaxed|PepQuery**, **HUPO|stringent|PepQuery**, **HUPO|strictest|PepQuery**: value could be 0 or 1. Different filtering standards. `HUPO` stands for the "Human Proteome Organization", which designs the HPP (Human Proteome Project) guidelines. `HUPO` means the `HPP` filtering standard.
+    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**, : value could be 0 or 1. Different filtering standards. `HUPO` stands for the "Human Proteome Organization", which designs the HPP (Human Proteome Project) guidelines. `HUPO` means the `HPP` filtering standard.
     * **identified_in_SmProt**: the peptide is identified in [SmProt](http://bigdata.ibp.ac.cn/SmProt/). 
     * **identified_in_OpenProt**: the peptide is identified in [OpenProt](https://openprot.org/). Peptide in OpenProt were found from links like [IP_591792](https://openprot.org/p/altorfDbView/79/43726886/591792/IP_591792/2/msDetectionDetail). 
     * **identified_in_Science**: the peptide is identified in the Science paper, *Chen, J. et al. Pervasive functional translation of noncanonical human open reading frames. Science 367, 1140-1146 (2020).*
@@ -53,7 +53,7 @@ If the website does not load, there may be an unstable internet connection. In t
     * **species_homolog**: species of the homolog protein.
     * **GENCODE|group**: relative location of peptides to GENCODE gene models. Values could be 'All_intron', 'All_intergene', 'All_UTR', 'All_exon_noncoding', 'All_transcript_coding', 'All_CDS', 'All_exon_coding', 'other', 'All_transcript_noncoding', 'All_transcript'.
     * **GENCODE_gene_id**: overlapped GENCODE gene ID in the genome.
-    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**, **HUPO|relaxed**, **HUPO|stringent**, **HUPO|strictest**, **HUPO|relaxed|PepQuery**, **HUPO|stringent|PepQuery**, **HUPO|strictest|PepQuery**: value could be 0 or 1. Different filtering standards.
+    * **relaxed**, **stringent**, **strictest**, **relaxed|PepQuery**, **stringent|PepQuery**, **strictest|PepQuery**: value could be 0 or 1. Different filtering standards.
     * **OpenProt_accession_id**: OpenProt accession ID if the protein sequence is identified in [OpenProt](https://openprot.org/). 
 * **Protein.interpro.domain.tsv.gz**: 
   * domain structures predicted by InterProScan v5.38 of proteins in `Table_S5_proteins.info.tsv.gz`. The meaning of each columns can be found: https://interproscan-docs.readthedocs.io/en/latest/OutputFormats.html.
