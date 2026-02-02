@@ -3,7 +3,7 @@
  Paper link [A Massive Proteogenomic Screen Identifies Thousands of Novel Peptides From the Human “Dark” Proteome](https://www.mcponline.org/article/S1535-9476(24)00009-4/fulltext)
 
 ## ncORF web
-Visit https://ncorf.genes.fun/
+Visit https://genes.fun/ncorf/
 
 Users may check existence of novel peptides in proteins they are interested in.
 
